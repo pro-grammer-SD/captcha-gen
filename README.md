@@ -4,4 +4,4 @@ Welcome to the **Captcha Library**, a powerful tool designed to generate various
 
 ## 📄 Documentation: [Click here](docs.py)
 
-## 🔑 License: [Click here](LICENSE)
+## 🔑 License: [Click here](LICENSE.md)
